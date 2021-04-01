@@ -5,7 +5,6 @@
 -  :triangular_ruler: Professor de matemática.
 - 👨‍💻 Estudante de programação com a *HighTech cursos* e a *Rocketseat*.
 - :gift_heart: Interesse: javaScript, typeScript, react, reactNative, html, css.
-- ♟️ Bora jogar um xadrez? :smile:
 
 ## Skills :book:
 
