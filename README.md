@@ -2,8 +2,7 @@
 
 ### Sobre
 
--  :triangular_ruler: Professor de matemática.
-- 👨‍💻 Estudante de programação com a *HighTech cursos* e a *Rocketseat*.
+-  :computer: Front-end na <a href="https://mova.vc/"> MOVA </a>
 - :gift_heart: Interesses: html, css, javaScript, typeScript, react, vuejs.
 
 ## Skills :book:
