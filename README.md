@@ -3,7 +3,7 @@
 ### Sobre
 
 -  :computer: Full Stack na <a href="https://www.agrointeli.com.br/"> Agrointeli </a>
-- :gift_heart: Interesses: html, css, javaScript, typeScript, react, vuejs.
+- :gift_heart: Interesses: html, css, javaScript, nodejs, react, vuejs.
 
 ## Skills :book:
 
