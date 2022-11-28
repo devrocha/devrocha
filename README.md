@@ -2,7 +2,7 @@
 
 ### Sobre
 
--  :computer: Full Stack na <a href="https://www.agrointeli.com.br/"> Agrointeli </a>
+-  :computer: Frontend na <a href="https://multiplier.com.br/"> Multiplier </a>
 - :gift_heart: Interesses: html, css, javaScript, nodejs, react, vuejs.
 
 ## Skills :book:
