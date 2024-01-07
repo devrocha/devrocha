@@ -3,7 +3,7 @@
 ### Sobre
 
 -  :computer: Frontend na <a href="https://multiplier.com.br/"> Multiplier </a>
-- :gift_heart: Interesses: html, css, javaScript, nodejs, react, vuejs.
+- :gift_heart: Interesses: html, css, javaScript, typescript, nodejs, react, vuejs.
 
 ## Skills :book:
 
