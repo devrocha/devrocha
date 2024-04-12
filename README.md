@@ -2,8 +2,8 @@
 
 ### Sobre
 
--  :computer: Frontend na <a href="https://multiplier.com.br/"> Multiplier </a>
-- :gift_heart: Interesses: html, css, javaScript, typescript, nodejs, react, vuejs.
+-  :computer: Frontend na <a href="https://www.sbrprime.com.br/"> SBR prime </a>
+- :gift_heart: Interesses:javaScript, typescript, nodejs, react, vuejs.
 
 ## Skills :book:
 
