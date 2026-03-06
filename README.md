@@ -2,8 +2,8 @@
 
 ### Sobre
 
--  :computer: Frontend na <a href="https://multiplier.com.br/"> Multiplier </a>
-- :gift_heart: Interesses: javaScript, typescript, nodejs, react, vuejs.
+-  :computer: Fullstack no <a href="https://bio.nextil.com.br/"> Grupo Nextil </a>
+- :gift_heart: Interesses: typescript, nodejs, nestjs, nextjs, react, vuejs, postgres, docker.
 
 ## Skills :book:
 
