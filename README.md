@@ -2,7 +2,7 @@
 
 ### Sobre
 
--  :computer: Fullstack no <a href="https://bio.nextil.com.br/"> Grupo Nextil </a>
+-  :computer: Fullstack no <a href="https://systextil.com.br/"> Systextil </a>
 - :gift_heart: Interesses: typescript, nodejs, nestjs, nextjs, react, vuejs, postgres, docker.
 
 ## Skills :book:
