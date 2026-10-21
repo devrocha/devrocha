@@ -2,7 +2,7 @@
 
 ### Sobre
 
--  :computer: Fullstack no <a href="https://systextil.com.br/"> Systextil </a>
+-  :computer: Fullstack na <a href="https://systextil.com.br/"> Systextil </a>
 - :gift_heart: Interesses: IA, typescript, nodejs, nestjs, nextjs, react, vuejs, spring, postgres, docker.
 
 ## Skills :book:
