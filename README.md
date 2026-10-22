@@ -1,39 +1,40 @@
-## Olá! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+## Olá, eu sou o Matheus 👋
+
+Desenvolvedor de software full stack com 5 anos de experiência em aplicações web e mobile. Tenho base forte em frontend com **Vue.js** e **TypeScript** e atuo no backend com **Node.js**, **NestJS** e **Java Spring**.
 
 ### Sobre
 
--  :computer: Fullstack na <a href="https://systextil.com.br/"> Systextil </a>
-- :gift_heart: Interesses: IA, typescript, nodejs, nestjs, nextjs, react, vuejs, spring, postgres, docker.
+- 💻 Desenvolvedor full stack na <a href="https://systextil.com.br/">Systextil</a>, no squad contábil-fiscal de um ERP (Java, Spring, React), trabalhando nas adequações à Reforma Tributária.
+- 🌱 Fui desenvolvedor principal na criação de um CRM para o agronegócio, com app React Native que funcionava offline e sincronizava os dados ao voltar a ficar online.
+- 🏗️ Liderei decisões de arquitetura, stack e ferramentas na internalização de uma plataforma de social commerce B2B.
+- 🧪 Gosto de qualidade de código: testes automatizados (Vitest, Cypress, Jest), refatoração e migração de JavaScript para TypeScript.
+- 🤖 Uso IA no dia a dia do desenvolvimento, incluindo a criação de skills para agentes de IA.
+- 👨‍🏫 Fui professor de matemática e mentor de frontend: gosto de compartilhar o que aprendo.
 
-## Skills :book:
+## Stack
 
-<p align="center">
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    
- </p> 
- 
- ## Contato
+**Frontend e mobile**<br>
+<img src="https://skillicons.dev/icons?i=ts,js,vue,nuxtjs,react,nextjs,vite,sass" alt="TypeScript, JavaScript, Vue.js, Nuxt.js, React, Next.js, Vite, Sass">
 
-<p align="center">
+**Backend**<br>
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,java,spring,graphql,redis" alt="Node.js, NestJS, Java, Spring, GraphQL, Redis">
+
+**Bancos de dados**<br>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb" alt="PostgreSQL, MongoDB">
+
+**Testes**<br>
+<img src="https://skillicons.dev/icons?i=vitest,jest,cypress" alt="Vitest, Jest, Cypress">
+
+**Infra e ferramentas**<br>
+<img src="https://skillicons.dev/icons?i=docker,aws,git" alt="Docker, AWS, Git">
+
+## Contato
+
+<p>
     <a href="mailto:mrochasandim75@gmail.com">
-        <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white">
+        <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
     </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/matheus-rocha-941a681b5/">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
 </p>
-  
